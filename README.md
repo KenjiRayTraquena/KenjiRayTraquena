@@ -1,8 +1,8 @@
 ## Hi there 👋
-Name: Kenji Ray Traqueña
-Education: New Era University (2024-present)
-Certifications:
-Skillsets: Mathematics and Communication
+Name: Kenji Ray Traqueña <br>
+Education: New Era University (2024-present) <br>
+Certifications: <br>
+Skillsets: Mathematics and Communication <br>
 <!--
 **KenjiRayTraquena/KenjiRayTraquena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
