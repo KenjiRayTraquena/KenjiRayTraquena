@@ -1,5 +1,5 @@
 ## Hi I am Kenji 👋
-Name: Kenji Ray Traqueña <br>
+Name: Kenji Ray M. Traqueña <br>
 
 ## Education 
 - New Era University <br>
@@ -13,7 +13,7 @@ Name: Kenji Ray Traqueña <br>
 ## Skillsets
 - Programming: Java, JavaScript
 - Databases: SQL
-- Tools: Lucidchart, Eclipse, HTML
+- Tools: Lucidchart
 <!--
 **KenjiRayTraquena/KenjiRayTraquena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
