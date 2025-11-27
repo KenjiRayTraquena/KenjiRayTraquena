@@ -3,7 +3,7 @@ Name: Kenji Ray Traqueña <br>
 Education: New Era University (2024-present) 
 <br>
 Certifications:
-- [SQL and Relational Databases 101] (https://courses.cognitiveclass.ai/certificates/4d36c91210084e34a4cbcb575fc5c2c0) <br>
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4d36c91210084e34a4cbcb575fc5c2c0) <br>
 <br>
 Skillsets:
 - Programming: Java, JavaScript
