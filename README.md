@@ -3,7 +3,7 @@ Name: Kenji Ray Traqueña <br>
 
 ## Education 
 - New Era University
-  (2024-present) 
+- (2024-present) 
 <br>
 
 ## Certifications
