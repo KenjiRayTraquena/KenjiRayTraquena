@@ -10,6 +10,7 @@ Name: Kenji Ray M. Traqueña <br>
 - [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4d36c91210084e34a4cbcb575fc5c2c0)
 - <a href ="https://shorturl.at/qMrZL">Oracle Cloud Infrastructure 2025 Foundations Associate</a>
 - <a href ="https://shorturl.at/HbL90">Oracle Data Platform 2025 Foundations Associate </a>
+-  <a href ="">Oracle OCI AI 2025 Foundations Associate </a>
 
 
 
